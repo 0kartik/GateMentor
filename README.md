@@ -236,13 +236,6 @@ Contributions are welcome! Please open an issue first to discuss what you'd like
 # Fork → Branch → Commit → Pull Request
 git checkout -b feature/your-feature-name
 ```
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 ## 👨‍💻 Author
